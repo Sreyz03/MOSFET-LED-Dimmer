@@ -77,9 +77,7 @@ At **90% duty cycle**, the LED appears bright.
 ---
 
 ## 👨‍💻 Author
-**Sreyas Kishore T**  
-KTU ID: TVE22AE062  
-College of Engineering, Trivandrum  
+**Sreyas Kishore T**   
 
 ---
 
