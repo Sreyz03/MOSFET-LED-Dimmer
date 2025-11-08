@@ -1,0 +1,38 @@
+# === General ===
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# === PlatformIO ===
+.pio/
+.pioenvs/
+.piolibdeps/
+.vscode/
+.platformio/
+
+# === C/C++ / Embedded ===
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.o
+*.d
+*.a
+*.out
+
+# === Python / Scripts ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === OS / Editor junk ===
+*~
+*.autosave
+*.kate-swp
+*.un~
